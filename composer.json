@@ -1,10 +1,15 @@
 {
-    "name": "matintayebi/core",
-    "authors": [
-        {
-            "name": "matinTayebiNia",
-            "email": "81463679+matinTayebiNia@users.noreply.github.com"
-        }
-    ],
-    "require": {}
+  "name": "matintayebi/core",
+  "authors": [
+    {
+      "name": "matinTayebiNia",
+      "email": "81463679+matinTayebiNia@users.noreply.github.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "matintayebi\\phpmvc": "."
+    }
+  }
 }

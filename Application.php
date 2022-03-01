@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace matintayebi\phpmvc;
 
 
-use app\core\db\Database;
+use matintayebi\phpmvc\db\Database;
 use JetBrains\PhpStorm\Pure;
 
 class Application

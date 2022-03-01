@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace matintayebi\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use matintayebi\phpmvc\middlewares\BaseMiddleware;
 use JetBrains\PhpStorm\Pure;
 
 abstract class Controller

@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace matintayebi\phpmvc;
 
 
-use app\core\exception\notFoundException;
+use matintayebi\phpmvc\exception\notFoundException;
 
 class Router
 {

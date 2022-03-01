@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace matintayebi\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use matintayebi\phpmvc\Application;
+use matintayebi\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

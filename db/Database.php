@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace matintayebi\phpmvc\db;
 
 
-use app\core\Application;
+use matintayebi\phpmvc\Application;
 
 class Database
 {

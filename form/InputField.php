@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace matintayebi\phpmvc\form;
 
-use app\core\Model;
+use matintayebi\phpmvc\Model;
 use JetBrains\PhpStorm\Pure;
 
 class InputField extends BaseField

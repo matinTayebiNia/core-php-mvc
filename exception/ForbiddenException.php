@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exception;
+namespace matintayebi\phpmvc\exception;
 
 use JetBrains\PhpStorm\Internal\LanguageLevelTypeAware;
 
